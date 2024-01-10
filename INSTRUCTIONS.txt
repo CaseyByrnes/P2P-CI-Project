@@ -8,12 +8,5 @@ MUST HAVE PYTHON INSTALLED AND BE ON LINUX
 
 4) The user is then prompted to enter the path to the RFC folder. Enter either "/RFC1/", "/RFC2/", or "/RFC3/" using the structure provided, or make your own. (If making your own, the RFC files must be txt files and named in the format of "NUMBER - TITLE.txt")
 
-
 5) The user can then make selections from there for getting RFCs, looking up RFCs,
 listing the available RFCs, exiting, or shutting down the server.
-
-If there are any questions, please email either:
-    Casey Byrnes at cjbyrnes@ncsu.edu
-    Saif Saleh at ssaleh@ncsu.edu
-
-Thank you.
